@@ -10,6 +10,10 @@
 
 ## Projects
 
+### Macroeconomic Factors Impact on Commodities (Group Project)
+Analyzed macroeconomic factors impact on four commodities. The factors: S&P 500 (daily), the USD/JPY exchange rate (daily), Brent Crude Oil prices (daily), VIX Index (daily), unemployment rate (monthly), industrial production (monthly), fed funds rate (monthly), and CPI growth rate data (monthly). The commodities: platinum, copper, gold, and silver. The daily factors and daily commodity returns (based on closing price) were derived from Yahoo Finance, and monthly factors were derived from the FRED (Federal Reserve Economic Data). This data was collected through internet querying. Hierarchical clustering using scipy.cluster library, and correlation heatmaps using seaborn and matplotlib, were useful visualizations to observe this data. Pandas worked well for analysis because of their properties to organize data, combine data frames, and datetime feature. Also, correlation coefficients were used to provide further evidence of each relationship. Scatterplots with regression trend lines, Monte Carlo simulations to model variability and potential outcomes, and time series line graphs were utilized to visually analyze the data. 
+
+
 ### Cerebrovascular Accident (Stroke) Factors Analysis
 Analyzed a dataset that recorded a multitude of factors ranging from age, hypertension status, work type, relationship status, average glucose levels, smoking status, etc., of different subjects within an experiment. Visualized the counts of each subject based on gender, hypertension status, heart disease status, relationship status, work type, residence type, and smoking status. Also visualized stroke incidence based on work type, residence type, and smoking status. Encoded the factors of the subjects in order to analyze and visualize the correlation between each factor and stroke incidence. Calculated and visualized stroke incidence for different age groups and performed a T-Test to highlight age as a strong predictor for a stroke. Utilized Pandas libraries, Matplotlib, Seaborn, and Scipy.stats.
 
