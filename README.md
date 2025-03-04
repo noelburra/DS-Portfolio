@@ -22,4 +22,5 @@ Analyzed a dataset that includes all the power plants in California with their r
 
 ### Husky Hacks User Web Application (Group Project)
 Link: https://github.com/noelburra/Husky-Hacks-Noel-Burra
+Created a web application designed to help users develop practical skills through real-world projects. The applications content is based of a relational diagram implemented using Flask for the REST API along with RESTful conventions, Docker, MySQL for the table inputs, and Streamlit for the frontend interface. Our platform focuses on structure, personalized feedback, and engagement. Users can upload and share projects, view metrics, and receive feedback.
 
