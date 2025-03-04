@@ -20,3 +20,5 @@ Analyzed a dataset that recorded a multitude of factors ranging from age, hypert
 ### Power Plant Sustainability
 Analyzed a dataset that includes all the power plants in California with their respective characteristics. Created a secondary dataset that was then merged with the primary dataset for efficiency in the code. Used data science techniques to import, clean, and organize the data for visualization and analysis. Utilized the Pandas library to merge the data and Matplotlib to visualize a geospatial scatter plot and a bar plot.
 
+### 
+
