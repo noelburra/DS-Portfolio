@@ -1,4 +1,4 @@
-# Noel Burra: Sophomore at Northeastern University
+# Noel Burra: Junior at Northeastern University
 
 ## Technical Skills
 - Python
