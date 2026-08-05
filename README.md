@@ -1,4 +1,4 @@
-# Noel Burra: Junior at Northeastern University
+# Noel Burra: Senior at Northeastern University
 
 ## Technical Skills
 - Python
@@ -25,3 +25,6 @@ Link: https://github.com/noelburra/Husky-Hacks-Noel-Burra
 
 Created a web application designed to help users develop practical skills through real-world projects. The applications content is based of a relational diagram implemented using Flask for the REST API along with RESTful conventions, Docker, MySQL for the table inputs, and Streamlit for the frontend interface. Our platform focuses on structure, personalized feedback, and engagement. Users can upload and share projects, view metrics, and receive feedback.
 
+### Quantitative Analysis of IonQ Earnings Forecast Errors
+
+Built a Python-based quantitative framework to evaluate analyst EPS forecast accuracy for IonQ from 2020–2026. Applied error metrics, volatility analysis, t-test, regime comparison, and z-score outlier detection to identify changes in forecast behavior over time. Found a sharp post-2025 increase in forecast error magnitude and volatility, highlighting a decline in earnings predictability.
